@@ -7,4 +7,6 @@ public interface Demo1 {
    public void delete();
    //修改方法
    public  void update();
+   //查找方法
+   public void find();
 }
