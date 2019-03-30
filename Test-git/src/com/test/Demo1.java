@@ -1,6 +1,8 @@
 package com.test;
 
 public interface Demo1 {
-   //创建增加方法
+   //增加方法
 	public void add();
+   //删除方法
+   public void delete();
 }
